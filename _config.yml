@@ -1,0 +1,43 @@
+
+title: Mayukh Sen 
+email: mayukhsen1301@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Brotherhood Of Art and Technology. Machine Learning Enthusiast and Ardent Quizzer.Ill make you rich!
+baseurl: "Mayukh_Sen1301" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  mayukh-sen1301
+
+author:
+    name: Mayukh Sen
+    email: mayukhsen1301@gmail.com
+social:
+  github: mayukh-sen1301
+  instagram: mayukhsen1301
+  facebook: mayukhsen1301
+  linkedin: mayukhsen1301
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+port: 8080
+timezone: Asia/Kolkata
+
+# Exclude from processing.
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+exclude:
+    -  Readme.md
+    -  favicon.ico
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
